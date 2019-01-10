@@ -830,11 +830,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yamagen\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.Android\\myTwitterClient.Android.csproj",
+      "projectUniqueName": "G:\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.Android\\myTwitterClient.Android.csproj",
       "projectName": "myTwitterClient.Android",
-      "projectPath": "C:\\Users\\Yamagen\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.Android\\myTwitterClient.Android.csproj",
+      "projectPath": "G:\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.Android\\myTwitterClient.Android.csproj",
       "packagesPath": "C:\\Users\\Yamagen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yamagen\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.Android\\obj\\",
+      "outputPath": "G:\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

@@ -792,11 +792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yamagen\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.iOS\\myTwitterClient.iOS.csproj",
+      "projectUniqueName": "G:\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.iOS\\myTwitterClient.iOS.csproj",
       "projectName": "myTwitterClient.iOS",
-      "projectPath": "C:\\Users\\Yamagen\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.iOS\\myTwitterClient.iOS.csproj",
+      "projectPath": "G:\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.iOS\\myTwitterClient.iOS.csproj",
       "packagesPath": "C:\\Users\\Yamagen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yamagen\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.iOS\\obj\\",
+      "outputPath": "G:\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

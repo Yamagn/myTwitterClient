@@ -6,7 +6,7 @@
     <ContentPage.ToolbarItems>
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
-        <ListView x:Name="timeLine">
+        <ListView>
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>

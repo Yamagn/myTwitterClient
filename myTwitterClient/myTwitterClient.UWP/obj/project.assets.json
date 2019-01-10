@@ -7161,11 +7161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yamagen\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.UWP\\myTwitterClient.UWP.csproj",
+      "projectUniqueName": "G:\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.UWP\\myTwitterClient.UWP.csproj",
       "projectName": "myTwitterClient.UWP",
-      "projectPath": "C:\\Users\\Yamagen\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.UWP\\myTwitterClient.UWP.csproj",
+      "projectPath": "G:\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.UWP\\myTwitterClient.UWP.csproj",
       "packagesPath": "C:\\Users\\Yamagen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yamagen\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.UWP\\obj\\",
+      "outputPath": "G:\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
