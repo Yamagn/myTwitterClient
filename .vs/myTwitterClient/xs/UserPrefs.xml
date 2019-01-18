@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7E20F58B-FAE8-4822-A43D-A197B48D5D54}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myTwitterClient/myTwitterClient/MainPage.xaml.cs">
+    <Files>
+      <File FileName="myTwitterClient/myTwitterClient/MainPage.xaml.cs" Line="22" Column="31" />
+      <File FileName="myTwitterClient/myTwitterClient/MainPage.xaml" Line="33" Column="25" />
+      <File FileName="ソースは利用できません" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.myTwitterClient.Android PreferredExecutionTarget="Android.7BKDU17A14002247" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

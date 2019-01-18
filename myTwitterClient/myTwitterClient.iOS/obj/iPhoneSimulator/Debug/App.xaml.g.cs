@@ -13,10 +13,10 @@
 namespace myTwitterClient {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("G:\\source\\repos\\myTwitterClient\\myTwitterClient\\myTwitterClient\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/ymgn/Projects/myTwitterClient/myTwitterClient/myTwitterClient/App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(App));
         }

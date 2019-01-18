@@ -1,16 +1,35 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:myTwitterClient"
-             x:Class="myTwitterClient.MainPage">
+             x:Class="myTwitterClient.MainPage"
+             Title="Home">
     <ContentPage.ToolbarItems>
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
-        <ListView>
+        <ListView x:Name="timeLine" HasUnevenRows="true">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
+                        <!--<StackLayout Orientation="Horizontal">
+                            <Image Source="{Binding User.ProfileImageUrl}" HeightRequest="30" WidthRequest="30" VerticalOptions="Start" Margin="5, 5, 5, 0"/>
+                            <StackLayout x:Name="stack" Orientation="Vertical">
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="{Binding User.Name}" VerticalOptions="Start" HorizontalOptions="Start" FontAttributes="Bold"/>
+                                    <Label Text="{Binding User.ScreenName}" VerticalOptions="Start" HorizontalOptions="Start" FontAttributes="Bold"/>
+                                </StackLayout>
+                                <Label Text="{Binding Text}" VerticalOptions="Start" HorizontalOptions="Start" LineBreakMode="CharacterWrap"/>
+                            </StackLayout>
+                        </StackLayout>-->
                         <StackLayout Orientation="Horizontal">
+                            <Image Source="{Binding User.ProfileImageUrl}" />
+                            <StackLayout x:Name="stack" Orientation="Vertical">
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="{Binding User.Name}"/>
+                                    <Label Text="{Binding User.ScreenName}"/>
+                                </StackLayout>
+                                <Label Text="{Binding Text}"/>
+                            </StackLayout>
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>
